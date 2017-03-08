@@ -1,6 +1,6 @@
 # JavaScript Style Guide
 
-*An approach to JavaScript, amalgamated from a few sources, peppered with my own preferences.*
+*JavaScript best practices, amalgamated from a few sources, peppered with my own preferences.*
 
 ## Table of Contents
 
@@ -12,20 +12,19 @@
 + Do not use 4 spaces.
 
 ```javascript
-// good
 function(name) {
 	// do something;
 }
 ```
 
 <a name="formatting-trailing-whitespace"></a>
-- [1.2](#formatting-trailing-whitespace) **No Trailing Whitespace**
-No trailing whitespace at the end of a line.
++ [1.2](#formatting-trailing-whitespace) **No Trailing Whitespace**
+++ No trailing whitespace at the end of a line.
 
 <a name="formatting-chars"></a>
-- [1.3](#formatting-chars) **Maximum 100 Characters**
-+ Lines should be a maximum of 100 characters long.
-+ Long lines should be broken up after operators or natural divisions.
++ [1.3](#formatting-chars) **Maximum 100 Characters**
+++ Lines should be a maximum of 100 characters long.
+++ Long lines should be broken up after operators or natural divisions.
 
 <a name="formatting-semicolons"></a>
 - [1.4](#formatting-semicolons) **Use Semicolons**
