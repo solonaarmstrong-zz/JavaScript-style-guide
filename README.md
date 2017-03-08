@@ -14,6 +14,7 @@
   [1.7 - Braces](#formatting-braces)  
   [1.8 - Spaces](#formatting-spaces)  
   [1.9 - Case](#formatting-case)  
+  [1.10 - Spelling Counts](#formatting-spelling)
 1. [Comments](#comments)
   [2.1 - Use `//` for single line comments](#comments--single)  
   [2.2 - Indent single line comments with their respective lines of code](#comments--indent)  
@@ -178,6 +179,18 @@ Use PascalCase for Classes and Constructors
 	```javascript
 	// good
 	const MyClass = ...
+	```
+
+<a name='formatting--spelling'></a><a name='1.10'></a>
+- [1.10](#formatting-spelling) **Spelling Counts**
+Please check your spelling. Typos hurt my brain.
+
+	```javascript
+	// bad
+	Smrt
+
+	// good
+	Smart
 	```
 
 ## Comments
