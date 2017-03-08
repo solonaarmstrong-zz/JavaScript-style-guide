@@ -1,0 +1,20 @@
+{
+  "name": "javascript-style",
+  "version": "1.0.0",
+  "description": "An approach to JavaScript, amalgamated from a few sources, peppered with my own preferences.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/airbnb/javascript.git"
+  },
+  "keywords": [
+    "style guide",
+    "lint",
+    "airbnb",
+    "es6",
+    "es2015",
+    "react",
+    "jsx"
+  ],
+  "author": "Solona Armstrong <solona.armstrong@gmail.com>",
+  "homepage": "https://github.com/airbnb/javascript"
+}
