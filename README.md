@@ -5,8 +5,8 @@
 ## Table of Contents
 
 1. [Formatting](#formatting)
-**[1.1 - Tabs](#formatting-tabs)
-**[1.2 - No Trailing Whitespace](#formatting-trailing-whitespace)
+	-[1.1 - Tabs](#formatting-tabs)
+	-[1.2 - No Trailing Whitespace](#formatting-trailing-whitespace)
 **[1.3 - Maximum 100 Characters](#formatting-chars)
 **[1.4 - Use Semicolons](#formatting-semicolons)
 **[1.5 - No leading commas](#formatting-leading-commas)
