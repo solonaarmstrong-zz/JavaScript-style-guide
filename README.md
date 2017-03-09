@@ -130,7 +130,7 @@ Line up closing braces with the original corresponding line.
 	}
 
 	// very bad
-	function (name) 			{
+	function (name) 		{
 		if (condition) 		{
 			// do something
 	}
@@ -232,14 +232,14 @@ Please check your spelling. Typos hurt my brain.
 	```
 
 <a name='comments--multiple'></a><a name="2.4"></a>
-- [2.4](#comments--multiple) **Use `/** ... */` for multiple line comments**
+- [2.4](#comments--multiple) **Use `/&ast;&ast; ... &ast;/` for multiple line comments**
 
 	```javascript
-	/** Multiple
-	  * lines
-	  * of
-	  * comments
-	  */
+	/&ast;&ast; Multiple
+	  &ast; lines
+	  &ast; of
+	  &ast; comments
+	  &ast;/
 	```
 
 ## Variables
