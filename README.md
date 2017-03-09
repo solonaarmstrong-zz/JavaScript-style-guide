@@ -235,11 +235,11 @@ Please check your spelling. Typos hurt my brain.
 - [2.4](#comments--multiple) **Use /\*\* ... \*/ for multiple line comments**
 
 	```javascript
-	/** Multiple
-	  * lines
-	  * of
-	  * comments
-	  */
+	/&#x0002A;&#x0002A; Multiple
+	  &#x0002A; lines
+	  &#x0002A; of
+	  &#x0002A; comments
+	  &#x0002A;/
 	```
 
 ## Variables
