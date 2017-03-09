@@ -232,7 +232,7 @@ Please check your spelling. Typos hurt my brain.
 	```
 
 <a name='comments--multiple'></a><a name="2.4"></a>
-- [2.4](#comments--multiple) **Use `/\*\* ... \*/` for multiple line comments**
+- [2.4](#comments--multiple) **Use /\*\* ... \*/ for multiple line comments**
 
 	```javascript
 	/\*\* Multiple
